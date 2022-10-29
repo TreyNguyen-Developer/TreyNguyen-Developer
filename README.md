@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TreyNguyen-Developer
 - 👀 I’m interested in UX/UI Full Stack Web Development
 - 🌱 I’m currently learning JS and React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me treynguyen.developer@gmail.com
 
 <!---
