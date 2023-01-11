@@ -148,7 +148,7 @@ const Work = () => {
             </div>
           </div>
           {/* Grid Item */}
-          <div style={{backgroundImage: `url(${RapidSpa})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage: `url(${RapidSpa})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div bg-cover'>
             <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-2xl font-bold text-white tracking-wider'>Rapid Spa</span>
               <div className='pt-8 text-center'>
