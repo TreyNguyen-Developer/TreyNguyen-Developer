@@ -13,7 +13,7 @@ const Home = () => {
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Front End Web Developer.</h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>I love to make beautiful and effective websites using UX/UI principles. Check out some of my work and send me a message to collaborate on your dream site!</p>
         <div>
-          <Link to="skills" className='w-max text-white group border-2 px-6 py-3 my-2 flex items-center hover:border-yellow-200 hover:text-yellow-200'>View Work 
+          <Link to="work" smooth={true} duration={500} className='w-max text-white group border-2 px-6 py-3 my-2 flex items-center hover:border-yellow-200 hover:text-yellow-200'>View Work 
           <span className='group-hover:rotate-90 duration-300'>
             <HiArrowNarrowRight className='ml-3'/>
           </span>
