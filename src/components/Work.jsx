@@ -25,7 +25,7 @@ const Work = () => {
           <p className='py-6'>// Check out some of my recent work!</p>
         </div>
 
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-4'>
           {/* Grid Item */}
           <div style={{backgroundImage: `url(${BlackliteDistrict})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             <div className='opacity-0 group-hover:opacity-100 text-center'>
